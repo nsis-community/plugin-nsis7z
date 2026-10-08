@@ -1,0 +1,5 @@
+* text=auto
+
+*.7z binary
+
+/README.md export-ignore
